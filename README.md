@@ -91,6 +91,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [aditya1101das@gmail.com](aditya1101das@gmail.com)
 
-Project Link: [https://github.com/your-username/weather-forecast-app](https://github.com/your-username/weather-forecast-app)
+Project Link: [https://github.com/Adstar01/weather-forecast-app](https://github.com/Adstar01/weather-forecast-app)
