@@ -4,7 +4,7 @@
 
 This Weather Forecast Application is a React-based web app that provides real-time weather information and forecasts based on the user's location. It utilizes the free Open-Meteo API to fetch weather data and presents it in an easy-to-read format with interactive charts.
 
-![Weather App Screenshot](https://via.placeholder.com/800x400.png?text=Weather+App+Screenshot)
+![Weather App Screenshot](https://github.com/user-attachments/assets/1ce34714-43ad-4aa9-93c9-95eb14e1c90e)
 
 ## Features
 
